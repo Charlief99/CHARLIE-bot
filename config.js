@@ -7,14 +7,14 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919654970780', 'KING B2K ✓', true]
+  ['919654970780', 'F9-CHARLIE  ', true]
 ] //Number of owners
 
-//global.pairingNumber = "919654970780" //put your bot number here
+//global.pairingNumber = "918792786331" //put your bot number here
 
-global.mods = ['919654970780'] 
-global.prems = ['919654970780']
-global.allowed = ['919654970780']
+global.mods = ['918792786331'] 
+global.prems = ['918792786331']
+global.allowed = ['918792786331']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -48,16 +48,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'KING B2K ✓'
+global.botname = 'CHARLIE-MD'
 global.premium = 'true'
-global.packname = 'KING B2K ✓' 
-global.author = '@danielrajput000' 
+global.packname = 'CHARLIE-UCHIHA' 
+global.author = 'F9-CHARLIE' 
 global.menuvid = 'Off'
-global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/danielrajput000?igshid=OGQ5ZDc2ODk2ZA==\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/DanielRajput/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/f9____x_____charli____?igshid=MzNlNGNkZWQ4Mg==\n' 
+global.dygp = 'https://chat.whatsapp.com/KaUv8hJ99bpHgyu99PRXH6'
+global.fgsc = 'https://github.com/Charlief99' 
+global.fgyt = 'https://youtube.com/@Finemax-Charlie?si=1WDytelSf71P7avs'
+global.fgpyp = 'https://youtube.com/@Finemax-Charlie?si=1WDytelSf71P7avs'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
