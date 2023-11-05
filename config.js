@@ -7,14 +7,14 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919654970780', 'F9-CHARLIE  ', true]
+  ['918549844721', 'F⁹-CHARLIE  ', true]
 ] //Number of owners
 
-//global.pairingNumber = "918792786331" //put your bot number here
+//global.pairingNumber = "918549844721" //put your bot number here
 
-global.mods = ['918792786331'] 
-global.prems = ['918792786331']
-global.allowed = ['918792786331']
+global.mods = ['918549844721'] 
+global.prems = ['918549844721']
+global.allowed = ['918549844721']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -48,11 +48,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'CHARLIE-MD'
+global.botname = '𝘾𝞖𝞓𝞒𝙇𝞘𝞢-MD'
 global.premium = 'true'
-global.packname = 'CHARLIE-UCHIHA' 
+global.packname = 'CHARLIE-F⁹⁹⁹' 
 global.author = 'F9-CHARLIE' 
-global.menuvid = 'Off'
+global.menuvid = 'https://telegra.ph/Eren-11-05-3'
 global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/f9____x_____charli____?igshid=MzNlNGNkZWQ4Mg==\n' 
 global.dygp = 'https://chat.whatsapp.com/KaUv8hJ99bpHgyu99PRXH6'
 global.fgsc = 'https://github.com/Charlief99' 
